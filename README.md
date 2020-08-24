@@ -4,11 +4,7 @@
 
 1. Calling text view at run time and dynamically changing text effects of text - [ImageCall](https://github.com/jojodeYeswanth/androidExamples/tree/master/TextViewRunTime)
   
-2. Call images from resources or online at runtime - [ImageCall](https://github.com/jojodeYeswanth/androidExamples/tree/master/ImageCall) :
-    * Random contrast
-    * Random hue
-    * Random saturation
-    * Random flip
+2. Call images from resources or online at runtime - [ImageCall](https://github.com/jojodeYeswanth/androidExamples/tree/master/ImageCall)
     
 3. Build a Login with 3 attempts and timer including validation - [Login](https://github.com/jojodeYeswanth/androidExamples/tree/master/Login)
     
@@ -20,7 +16,7 @@
     
 7. Create fragment life-cycle for a News App - [Fragment](https://github.com/jojodeYeswanth/androidExamples/tree/master/Fragment)
    
-8. Contacts App with Phone and Mobile Number - [Contacts](https://github.com/jojodeYeswanth/androidExamples/tree/master/Contacts)
+8. Contacts App with Phone and Mobile Number - [Contacts](https://github.com/jojodeYeswanth/androidExamples/tree/master/Contacts) :
     * Contacts list without repetition
     * Add extra fields like email, DoB and Fax
     * Arrange the list of contacts in alphabetical order
