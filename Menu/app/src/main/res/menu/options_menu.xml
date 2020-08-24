@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bluetooth"
+        android:title="Blutooth Settings"
+        android:icon="@drawable/ic_bluetooth"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/wifi"
+        android:title="WiFi Settings"
+        android:icon="@drawable/ic_signal"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/location"
+        android:title="Location Settings"
+        android:icon="@drawable/ic_location"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/more"
+        android:title="More"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/subitem1"
+                android:title="Airplane Mode Settings"/>
+            <item
+                android:id="@+id/subitem2"
+                android:title="Sound Settings"/>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="news">The apex court has allowed banks to handle cryptocurrency transactions from exchanges and traders, but there are many challenges going forward</string>
+    <string name="newsBottom">layout_gravity="right|bottom": \n\nThe apex court has allowed banks to handle cryptocurrency transactions from exchanges and traders, but there are many challenges going forward</string>
+    <string name="newsheader">Cryptocurrency is legal.\nWhat next ?</string>
+    <string name="newshFrame">layout_marginTop="100dp":\nCryptocurrency is legal.\nWhat next ?</string>
+    <string name="newsheader1">Corona virus Live Updates: World Closes In on Itself as Measures to Slow Virus Intensify"</string>
+    <string name="news1">The Centers for Disease Control recommended that all gatherings of more than 50 people be banned.</string>
+</resources>
