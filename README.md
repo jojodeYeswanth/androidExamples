@@ -24,4 +24,4 @@
     
 9. Deploy a CRUD application to showcase ticket booking in a movie complex [MovieTix](https://github.com/YeshJojo/TensorFlowCodes/blob/master/MovieTix)
 
-10. Build a dynamic map activity with an API key to obtain the location with Google Map [GPSLocation](https://github.com/YeshJojo/TensorFlowCodes/blob/master/GPSLocation)
+10. Build a dynamic map activity with an API key to obtain the location with Google Map [GPSLocation](https://github.com/jojodeYeswanth/gpsGoogleApi)
